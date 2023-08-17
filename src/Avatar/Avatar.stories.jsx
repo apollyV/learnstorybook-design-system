@@ -3,6 +3,10 @@ import { Avatar } from './Avatar';
 export default {
   title: 'Design System/Avatar',
   component: Avatar,
+  parameters: {
+    componentSubtitle:
+      'Displays an image that represents a user or organization',
+  },
   argTypes: {
     size: {
       control: {
