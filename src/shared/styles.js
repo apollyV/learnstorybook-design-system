@@ -15,7 +15,7 @@ export const color = {
   secondary: '#1EA7FB', // ocean
   tertiary: '#DDDDDD',
 
-  orange: '#FC521F',
+  orange: '#FC520F',
   gold: '#FFAE00',
   green: '#66BF3C',
   seafoam: '#37D5D3',
@@ -23,7 +23,7 @@ export const color = {
   ultraviolet: '#2A0481',
 
   // Monochrome
-  lightest: '#FFFFFF',
+  lightest: '#FFF000',
   lighter: '#F8F8F8',
   light: '#F3F3F3',
   mediumlight: '#EEEEEE',
