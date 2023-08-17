@@ -1,7 +1,7 @@
 {
   "name": "@constant_vennin/learnstorybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
