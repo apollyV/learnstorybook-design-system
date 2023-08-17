@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@constant_vennin/learnstorybook-design-system",
   "version": "0.1.0",
   "private": true,
   "main": "dist/cjs/index.js",
@@ -75,12 +75,20 @@
       "optional": true
     }
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0",
   "dependencies": {
     "@storybook/addon-a11y": "^7.3.1",
     "@storybook/addon-coverage": "^0.0.9",
     "@storybook/jest": "^0.1.0",
     "@storybook/test-runner": "^0.13.0"
-  }
+  },
+  "description": "Storybook design systems tutorial",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollyV/learnstorybook-design-system.git"
+  },
+  "author": "constant-vennin",
+  "bugs": {
+    "url": "https://github.com/apollyV/learnstorybook-design-system/issues"
+  },
+  "homepage": "https://github.com/apollyV/learnstorybook-design-system#readme"
 }
